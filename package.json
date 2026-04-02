@@ -4,8 +4,5 @@
   "scripts": {
     "test": "echo \"Tests passed\"",
     "build": "echo \"Build completed successfully\""
-  },
-  "dependencies": {
-    "lodash": "4.17.21"
   }
 }
