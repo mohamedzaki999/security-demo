@@ -1,2 +1,2 @@
-const api_key = "SECRET123456";
+const api_key = process.env.API_KEY;
 console.log("Demo application");
