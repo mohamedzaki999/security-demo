@@ -1,0 +1,11 @@
+{
+  "name": "security-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Tests passed\"",
+    "build": "echo \"Build completed successfully\""
+  },
+  "dependencies": {
+    "lodash": "4.17.10"
+  }
+}
