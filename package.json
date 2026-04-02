@@ -6,6 +6,6 @@
     "build": "echo \"Build completed successfully\""
   },
   "dependencies": {
-    "lodash": "4.17.10"
+    "lodash": "4.17.21"
   }
 }
